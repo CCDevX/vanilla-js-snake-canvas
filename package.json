@@ -1,0 +1,27 @@
+{
+  "name": "vanilla-js-snake-canvas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CCDevX/vanilla-js-snake-canvas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CCDevX/vanilla-js-snake-canvas/issues"
+  },
+  "homepage": "https://github.com/CCDevX/vanilla-js-snake-canvas#readme",
+  "devDependencies": {
+    "sass": "^1.86.0",
+    "vite": "^6.2.4"
+  }
+}
