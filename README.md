@@ -29,4 +29,4 @@ npm run build
 
 ## Auteur
 
-CCDEVX
+CCDevX
